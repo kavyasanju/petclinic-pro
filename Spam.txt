@@ -1,5 +1,2 @@
-Hello
-Doing Good.
-Again Doing good
-Hello What is your name
-Abcd
+this is new project 
+going to build automatically.
